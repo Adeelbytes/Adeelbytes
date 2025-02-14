@@ -1,4 +1,4 @@
-<img src= "https://unsplash.com/photos/turned-on-flat-screen-monitors-and-macbook-pro-4mHaSX8zvJI" alt= "github-profile-picture">
+<img src= "bg.jpg" alt= "github-profile-picture">
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
