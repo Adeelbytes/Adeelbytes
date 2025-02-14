@@ -47,6 +47,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,docker,django,flask,py,react,kubernetes,cpp,js,java,r,git,node,express,next,mongo,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=flutter,django,flask,py,cpp,java,js,react,nodejs,express,next,r,git,github&perline=14" />
   </a>
 </p>
