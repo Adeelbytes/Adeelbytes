@@ -1,43 +1,52 @@
-# Hi, I'm Adeel! 👋
+<img src= "https://unsplash.com/photos/turned-on-flat-screen-monitors-and-macbook-pro-4mHaSX8zvJI" alt= "github-profile-picture">
 
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building cool projects. Here, you'll find a collection of my work, experiments, and contributions to open-source projects.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 About Me
-- 💻 I'm a software developer with a love for problem-solving and creating efficient solutions.
-- 🌱 I’m currently learning and exploring new technologies to expand my skill set.
-- 📫 How to reach me: [Your Email or Social Media Links]
-- 😄 Pronouns: He/Him
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi there 👋 I'm Adeel Haider.</h1></summary>
+  </ul>
+</div> 
 
-## 🔧 Technologies & Tools
-Here are some of the technologies and tools I work with:
+<p>I'm a software engineer with a passion for coding and a love for open-source. Currently, I study at FAST NUCES, Islamabad, and in my free time, I contribute to various open-source projects.</p>
 
-- **Languages**: Python, JavaScript, Java, C++, etc.
-- **Frameworks**: React, Node.js, Django, etc.
-- **Tools**: Git, Docker, VS Code, etc.
-- **Databases**: MySQL, MongoDB, PostgreSQL, etc.
 
-## 📂 Projects
-Here are some of the projects I've worked on:
+- 🔭 I’m currently working on Whatsapp Automation.
+- 🌱 I’m currently understanding DevOps.
+- 🤔 I’m looking for help with Docker, Kubernetes, and other DevOps technologies.
+- 📫 How to reach me: adeelhaider1412@gmail.com.
 
-1. **Project Name 1** - Short description of the project.
-2. **Project Name 2** - Short description of the project.
-3. **Project Name 3** - Short description of the project.
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Adeelbytes&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adeel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeelbytes&theme=dark&hide_border=false" /> 
+</td>
 
-Feel free to explore my repositories to see more!
+<td width="50%" align="center">
 
-## 🌟 Contributions
-I enjoy contributing to open-source projects and collaborating with other developers. If you have any interesting projects or ideas, feel free to reach out!
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Adeelbytes&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🤝 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourusername)
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
-
----
-
-⭐️ Feel free to star my repositories if you find them interesting! Thanks for visiting, and happy coding! 😄
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I have worked on👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,docker,django,flask,py,react,kubernetes,cpp,js,java,spring,r,git,node,express,next,mongo,github&perline=14" />
+  </a>
+</p>
